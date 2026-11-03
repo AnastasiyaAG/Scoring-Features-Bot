@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Внедрение онбординга",
+    "stack_required": "F",
+    "reach": 1500, "impact": 3.0, "confidence": 0.8, "effort": 2
+  },
+  {
+    "id": 2,
+    "title": "Интеграция оплаты через СБП",
+    "stack_required": "BaF",
+    "reach": 5000, "impact": 2.0, "confidence": 0.5, "effort": 5
+  },
+  {
+    "id": 3,
+    "title": "Оптимизация базы данных",
+    "stack_required": "B",
+    "reach": 10000, "impact": 1.0, "confidence": 0.9, "effort": 1
+  }
+]
